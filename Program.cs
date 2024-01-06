@@ -1,21 +1,22 @@
-﻿namespace Abstract;
-
+﻿// Main application class
 class Program
 {
     static void Main(string[] args)
     {
-          // Abstract sınıfın örneği oluşturulamaz, ancak türetilen sınıfların örnekleri oluşturulabilir
-        Calculate dikdortgen = new Calculate();
-        dikdortgen.Uzunluk = 5;
-        dikdortgen.Genislik = 3;
+        // Creating an instance of the Rectangle class
+        Rectangle rectangle = new Rectangle();
 
-        // Abstract metot kullanma
-        double alan = dikdortgen.AlanHesapla();
+        // Assigning values to the length and width properties
+        rectangle.Length = 5;
+        rectangle.Width = 3;
 
-        Console.WriteLine("Dikdörtgen Alanı: " + alan);
+        // Calculating the area of the rectangle
+        double area = rectangle.CalculateArea();
 
-        // Abstract sınıfın örneği oluşturulamaz
-        // Sekil sekil = new Sekil(); // Hata alırsınız
+        // Printing the result to the console
+        Console.WriteLine("Rectangle Area: " + area);
 
+        // Attempting to create an instance of the abstract class directly (which is not allowed)
+        // AbstractHome home = new AbstractHome(); // You will get an error
     }
 }
