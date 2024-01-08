@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\bin\Debug\net7.0\Abstracteexample.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\bin\Debug\net7.0\Abstracteexample.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\bin\Debug\net7.0\Abstracteexample.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\bin\Debug\net7.0\Abstracteexample.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\bin\Debug\net7.0\Abstracteexample.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\Abstracteexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\Abstracteexample.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\Abstracteexample.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\Abstracteexample.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\Abstracteexample.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\refint\Abstracteexample.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\Abstracteexample.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\Abstracteexample.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Abstract\Abstracteexample\obj\Debug\net7.0\ref\Abstracteexample.dll
